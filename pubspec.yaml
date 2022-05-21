@@ -33,6 +33,7 @@ dependencies:
   flutter_chat_ui: ^1.5.8
   file_picker: ^4.5.1
   camera: ^0.9.6
+  loading_animation_widget: ^1.2.0+1
 
 dev_dependencies:
   flutter_test:
